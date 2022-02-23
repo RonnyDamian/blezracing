@@ -1,1 +1,1 @@
-</section><!--CDN JQuery --><script src="../../assets/js/functions.js"></script></body></html>
+</section><!--CDN JQuery --><script src="../../assets/lib/jquery/jquery-3.6.0.min.js"></script><script src="../../assets/lib/toastr/js/toastr.min.js"></script><script src="../../assets/js/functions.js"></script><script src="../../assets/js/user.js"></script></body></html>
